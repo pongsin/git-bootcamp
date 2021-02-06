@@ -1,6 +1,6 @@
 /* 
  * Code for basic C skills diagnostic.
- * Developed for courses 15-213/18-213/15-513 by R. E. Bryant, 2017
+ * Developed for courses 15-213/18-213/18-613/15-513 by R. E. Bryant, 2017
  * Extended to store strings, 2018
  */
 
