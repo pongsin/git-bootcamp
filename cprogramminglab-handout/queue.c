@@ -1,6 +1,6 @@
 /* 
  * Code for basic C skills diagnostic.
- * Developed for courses 15-213/18-213/15-513 by R. E. Bryant, 2017
+ * Developed for courses 15-213/18-213/18-613/15-513 by R. E. Bryant, 2017
  * Modified to store strings, 2018
  */
 
@@ -33,6 +33,7 @@ queue_t *q_new()
 /* Free all storage used by queue */
 void q_free(queue_t *q)
 {
+
     /* How about freeing the list elements and the strings? */
     /* Free queue structure */
     free(q);
